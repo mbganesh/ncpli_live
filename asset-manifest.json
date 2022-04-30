@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ncpli_live/static/css/main.216a5499.css",
-    "main.js": "/ncpli_live/static/js/main.269ef0e3.js",
+    "main.js": "/ncpli_live/static/js/main.8bcd7eb2.js",
     "static/js/787.b7474013.chunk.js": "/ncpli_live/static/js/787.b7474013.chunk.js",
     "static/media/ec2.jpg": "/ncpli_live/static/media/ec2.98c6d21744f0f0673ce1.jpg",
     "static/media/kiosk8.jpg": "/ncpli_live/static/media/kiosk8.07b7ff7bd74ea11d8652.jpg",
@@ -192,11 +192,11 @@
     "static/media/ic_y.svg": "/ncpli_live/static/media/ic_y.46d72ab5679175057696b7ea4818c8f8.svg",
     "static/media/ic_f.svg": "/ncpli_live/static/media/ic_f.377c0bf7fb12b1972b9f2dd920525ef3.svg",
     "main.216a5499.css.map": "/ncpli_live/static/css/main.216a5499.css.map",
-    "main.269ef0e3.js.map": "/ncpli_live/static/js/main.269ef0e3.js.map",
+    "main.8bcd7eb2.js.map": "/ncpli_live/static/js/main.8bcd7eb2.js.map",
     "787.b7474013.chunk.js.map": "/ncpli_live/static/js/787.b7474013.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.216a5499.css",
-    "static/js/main.269ef0e3.js"
+    "static/js/main.8bcd7eb2.js"
   ]
 }
